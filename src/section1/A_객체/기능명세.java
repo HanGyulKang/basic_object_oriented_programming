@@ -1,4 +1,4 @@
-package section1.객체;
+package section1.A_객체;
 
 public class 기능명세 {
 

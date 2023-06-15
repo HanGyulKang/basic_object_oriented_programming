@@ -1,4 +1,4 @@
-package section1.캡슐화;
+package section1.B_캡슐화;
 
 public class 캡슐화를하지않았을때 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package section1.캡슐화.예제클래스;
+package section1.B_캡슐화.예제클래스;
 
 import java.util.Date;
 
